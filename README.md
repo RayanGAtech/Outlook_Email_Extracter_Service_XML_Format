@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/b6c4e463-02cf-4826-ba00-b0a47b779db8)
-
 # EONET VISUAL: Unveiling Earth's Dynamic Canvas 🌍  
 [![Made With Python ](https://img.shields.io/badge/Made%20with-Python-blue)](https://python.org/)  
 
